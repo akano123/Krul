@@ -1,0 +1,18 @@
+[
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "bully",
+        "owner" : "142610045874601984",
+        "regex" : false,
+        "responses" : [
+            "#emo bully"
+        ],
+        "server" : "358603437753106432",
+        "triggered" : 1,
+        "triggered_by" : "bully",
+        "type" : "all"
+    }
+]
